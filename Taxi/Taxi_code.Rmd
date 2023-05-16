@@ -1,6 +1,6 @@
 m---
 title: "BUA466_Project"
-author: "Xinyue Wang, Xitong Yu, Huihao Xing, Dasen Song"
+author: Team 8
 date: "2023-04-03"
 output: html_document
 ---
