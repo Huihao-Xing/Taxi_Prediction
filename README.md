@@ -21,7 +21,7 @@ Taxi_code.Rmd
 DATA FILES:
 -----------
 
-- csv files
+- csv files:
 Taxi_data.csv
 
 External datasets imported into R for the project are listed here.
