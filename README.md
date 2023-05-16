@@ -40,6 +40,7 @@ Taxi_report.docx
 - Images:
 
 ============================================================
+
 In addition to this folder, the following files are contained in this project:
 
 - This README file
