@@ -1,5 +1,5 @@
 # Taxi_Prediction
-This file allows you to use the data inside to analyze the binary outcome variable about drives' cancellation behavior
+This file allows you to use the data included in the file to analyze the binary outcome variable about drives' cancellation behavior.
 This R project contains one folder with 3 types of R files:
 
 Folder: Taxi
